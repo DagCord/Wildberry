@@ -1,7 +1,5 @@
 # Wildberry
 
-Thanks to Equity for her help. Based on her theme [Eventide](https://github.com/Equity/Eventide)
-
 Spcial SyntaxHighlighting from Highlightjs theme [Gradient Dark](https://github.com/highlightjs/highlight.js/blob/master/src/styles/gradient-dark.css)
 
 ## Screenshots
