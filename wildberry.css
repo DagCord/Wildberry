@@ -214,6 +214,52 @@ html.theme-light::before {
   background-color: var(--background-tertiary);
 }
 
+.theme-dark .lookFilled-1Gx00P {
+  background-color: var(--wildberry-accent-color);
+}
+
+.theme-dark .colorGrey-2DXtkV {
+  background-color: var(--wildberry-less-hot);
+}
+
+/* Bot Tag */
+.botTagRegular-2HEhHi {
+  transition: .5s;
+  background: rgba(114,137,218,0.1);
+  color: #7289da;
+}
+.botTagRegular-2HEhHi:hover {
+  transition: .5s;
+  background: #7289da;
+  color: #fff;
+}
+
+/* Selection Menu Neutral */
+.passthrough-1c2ewQ.selected-2YhbGh  {
+  background-color: #ffba00 !important;
+}
+
+/* Better ROles */
+.role-2irmRk {
+  position: relative;
+  overflow: hidden;
+  border: none;
+  padding: 5px;
+}
+.roleCircle-3xAZ1j::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: inherit;
+  opacity: .2;
+  pointer-events: none;
+}
+.footer-1fjuF6 {
+  border-top: none;
+}
 /*
 
 Gradient Dark (c) Samia Ali <samiaab1990@gmail.com>
