@@ -35,7 +35,7 @@ Simply clone the repo in your `powercord/src/Powercord/themes` and apply it. Tha
 Simply go to the `themes` menu in powercord and enter the following in the `Quick Css`
 
 ```css
-@import url(https://raw.githubusercontent.com/DagCord/Wildberry/main/wildberry.css);
+@import url(https://dagcord.github.io/Wildberry/wildberry.css);
 /* 
 Note, this requires the theme on Discord to be internally be set to Dark.
   You can do this by Settings > Appearance > Theme
