@@ -1,4 +1,4 @@
-# Nord
+# Wildberry
 
 Thanks to Equity for her help. Based on her theme [Eventide](https://github.com/Equity/Eventide)
 
@@ -34,7 +34,7 @@ Simply clone the repo in your `powercord/src/Powercord/themes` and apply it. Tha
 Simply go to the `themes` menu in powercord and enter the following in the `Quick Css`
 
 ```css
-@import url(https://raw.githubusercontent.com/DagCord/Wildberry/wildberry.css);
+@import url(https://raw.githubusercontent.com/DagCord/Wildberry/main/wildberry.css);
 /* 
 Note, this requires the theme on Discord to be internally be set to Dark.
   You can do this by Settings > Appearance > Theme
@@ -43,7 +43,9 @@ Note, this requires the theme on Discord to be internally be set to Dark.
 
 ## BetterDiscord
 
-Soon
+1. Download the BetterDiscord theme file from [here](https://github.com/DagCord/blob/main/BetterDiscord/Wildberry.theme.css).
+2. Locate your BetterDiscord themes folder by clicking the "Open Themes Folder" button in your themes tab.
+3. Enable the theme.
 
 ## Notice
 
