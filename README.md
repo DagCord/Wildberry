@@ -6,10 +6,9 @@ Spcial SyntaxHighlighting from Highlightjs theme [Gradient Dark](https://github.
 
 ## Screenshots
 
-![Theme in use](https://i.imgur.com/JypZ54R.png)
-![More Stuff](https://i.imgur.com/cLG4vBR.png)
-![Stop](https://i.imgur.com/tiAM9HR.png)
-![Done](https://i.imgur.com/mw60T5w.png)
+![Theme in use](https://github.com/DagCord/Wildberry/raw/main/images/daggytech.PNG)
+![More Stuff](https://github.com/DagCord/Wildberry/raw/main/images/dpy.PNG)
+![Stop](https://github.com/DagCord/Wildberry/raw/main/images/settings.PNG)
 
 Please note in the screenshots above the following extra CSS was used to change codeblock font
 
