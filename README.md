@@ -1,6 +1,6 @@
 # Wildberry
 
-Spcial SyntaxHighlighting from Highlightjs theme [Gradient Dark](https://github.com/highlightjs/highlight.js/blob/master/src/styles/gradient-dark.css)
+Spcial Syntax Highlighting from Highlightjs theme [Gradient Dark](https://github.com/highlightjs/highlight.js/blob/master/src/styles/gradient-dark.css)
 
 ## Screenshots
 
